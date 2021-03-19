@@ -6,9 +6,9 @@ Study Type	high content screen
 Study Type Term Source REF	EFO																																																			
 Study Type Term Accession	EFO_0007550																																																			
 Study Description	Although a large number of actin-binding proteins and their regulators have been identified through classical approaches, gaps in our knowledge remain. Here, we used genome-wide RNA interference as a systematic method to define metazoan actin regulators based on visual phenotype. Using comparative screens in cultured Drosophila and human cells, we generated phenotypic profiles for annotated actin regulators together with proteins bearing predicted actin-binding domains. These phenotypic clusters for the known metazoan "actinome" were used to identify putative new core actin regulators, together with a number of genes with conserved but poorly studied roles in the regulation of the actin cytoskeleton, several of which we studied in detail. This work suggests that although our search for new components of the core actin machinery is nearing saturation, regulation at the level of nuclear actin export, RNA splicing, ubiquitination, and other upstream processes remains an important but unexplored frontier of actin biology.																																																			
-Study Organism	Drosophila melanogaster	Homo sapiens																																																		
+Study Organism																																																				
 Study Organism Term Source REF	NCBITaxon	NCBITaxon																																																		
-Study Organism Term Accession	NCBITaxon_7227	NCBITaxon_9606																																																		
+Study Organism Term Accession																																																				
 Study Screens Number	2																																																			
 Study External URL																																																				
 Study Public Release Date	2016-04-27																																																			
@@ -48,6 +48,9 @@ Screen Example Images	https://idr.openmicroscopy.org/webclient/?show=well-12750	
 Screen Imaging Method	fluorescence microscopy																																																			
 Screen Imaging Method Term Source REF	Fbbi																																																			
 Screen Imaging Method Term Accession	FBbi_00000246																																																			
+Screen Organism	Drosophila melanogaster																																																			
+Screen Organism Term Source REF	NCBITaxon																																																			
+Screen Organism Term Accession	NCBITaxon_7227																																																			
 Screen Technology Type	RNAi screen																																																			
 Screen Technology Term Source REF	EFO																																																			
 Screen Technology Term Accession	EFO_0007551																																																			
@@ -117,6 +120,9 @@ Screen Example Images	https://idr.openmicroscopy.org/webclient/?show=well-39563	
 Screen Imaging Method	fluorescence microscopy																																																			
 Screen Imaging Method Term Source REF	Fbbi																																																			
 Screen Imaging Method Term Accession	FBbi_00000246																																																			
+Screen Organism	Homo sapiens																																																		
+Screen Organism Term Source REF	NCBITaxon																																																			
+Screen Organism Term Accession	NCBITaxon_9606																																																		
 Screen Technology Type	RNAi screen																																																			
 Screen Technology Term Source REF	EFO																																																			
 Screen Technology Term Accession	EFO_0007551																																																			
